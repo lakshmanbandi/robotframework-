@@ -1,1 +1,2 @@
-print("python")
+x= 'python'
+print(x)
